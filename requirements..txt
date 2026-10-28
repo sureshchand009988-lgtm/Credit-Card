@@ -4,5 +4,5 @@ pandas
 scikit-learn
 imbalanced-learn
 matplotlib
-seaborn
+seaborn==0.13.2
 xgboost
