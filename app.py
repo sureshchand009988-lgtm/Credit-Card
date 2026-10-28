@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-import seaborn as sns
 import matplotlib.pyplot as plt
 # col3,col4 = st.columns(2)
 # with col3:
